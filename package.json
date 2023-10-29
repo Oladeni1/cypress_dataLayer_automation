@@ -1,0 +1,15 @@
+{
+  "name": "cypress_datalayer_automation",
+  "version": "1.0.0",
+  "description": "dataLayer automation with cypress",
+  "main": "index.js",
+  "scripts": {
+    "openTestRunner": "npx cypress open",
+    "runTestHeadless": "npx cypress run"
+  },
+  "author": "Olatunde Oladeni",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3"
+  }
+}
